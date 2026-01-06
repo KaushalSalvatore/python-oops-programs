@@ -1,5 +1,6 @@
 '''
-Python decorators : 1. Functions that modify the behavior of other functions
+Python decorators : 
+1. Functions that modify the behavior of other functions
 2. Used with the @decorator_name syntax
 3. Commonly used for logging, timing, access control
 '''
