@@ -20,3 +20,5 @@
 - **oops-16. map**
 - **oops-17. Shallow,Deep copy**
 - **oops-18. Public,Protected,Private memeber**
+- **oops-19. decorators**
+- **oops-20. Lambda Function,List Comprehension**
