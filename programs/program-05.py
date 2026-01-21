@@ -1,0 +1,3 @@
+'''
+Count vowel in string
+'''
