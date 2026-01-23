@@ -1,3 +1,3 @@
 '''
-Docstring for programs.program-10
+character occurrence in string
 '''
