@@ -1,7 +1,6 @@
 '''
 character occurrence in string
 '''
-
 str1 = "character occurrence in string"
 dict = {}
 for chr in str1:
