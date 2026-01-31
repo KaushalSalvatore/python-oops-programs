@@ -1,0 +1,32 @@
+#### Python Prgram list
+
+- **Program-01. Factorial Number to given number**
+- **Program-02. Print Armstrong Number**
+- **Program-03. Revers number or  Palindrome number**
+- **Program-04. find common letter in two String**
+- **Program-05. Count vowel in string**
+- **Program-06. Reverse String or palindrome string**
+- **Program-07. Remove character form string given input**
+- **Program-08. pair the target sun in given array**
+- **Program-09. find the maximum number from Array**
+- **Program-10. character occurrence in string**
+- **Program-11. common letter in given two string**
+- **Program-12. Remove character form string given input String**
+- **Program-13. Remove duplicate character from string**
+- **Program-14. find the perfect number from list**
+- **Program-15. Remove the text from specific index**
+- **Program-16. array rotation according to given index**
+- **Program-17. Two Array union Intersection**
+- **Program-18. array negative element one side**
+- **Program-19. fibinna Series using reursion and function**
+- **Program-20. swap the array value according to given index**
+- **Program-21. **
+- **Program-22. **
+- **Program-23. **
+- **Program-24. **
+- **Program-25. **
+- **Program-26. **
+- **Program-27. **
+- **Program-28. **
+- **Program-29. **
+- **Program-30. **
