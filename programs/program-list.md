@@ -14,13 +14,13 @@
 - **Program-12. Remove character form string given input String**
 - **Program-13. Remove duplicate character from string**
 - **Program-14. find the perfect number from list**
-- **Program-15. Remove the text from specific index**
-- **Program-16. array rotation according to given index**
+- **Program-15. Remove the text from specific index position**
+- **Program-16. array right rotation according to given index**
 - **Program-17. Two Array union Intersection**
 - **Program-18. array negative element one side**
-- **Program-19. fibinna Series using reursion and function**
+- **Program-19. Fibonacci Series using reursion and function**
 - **Program-20. swap the array value according to given index**
-- **Program-21. **
+- **Program-21. Requred Output**
 - **Program-22. **
 - **Program-23. **
 - **Program-24. **
