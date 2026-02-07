@@ -21,12 +21,12 @@
 - **Program-19. Fibonacci Series using reursion and function**
 - **Program-20. swap the array value according to given index**
 - **Program-21. Requred Output**
-- **Program-22. **
-- **Program-23. **
-- **Program-24. **
-- **Program-25. **
-- **Program-26. **
-- **Program-27. **
+- **Program-22. Remove characters at odd indices**
+- **Program-23. Find all permutations of string**
+- **Program-24. Check if given String is Pangram or not**
+- **Program-25. Check if two Strings are Anagrams of each other**
+- **Program-26. Required output-1**
+- **Program-27. Required output-2**
 - **Program-28. **
 - **Program-29. **
 - **Program-30. **
