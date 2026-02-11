@@ -20,13 +20,33 @@
 - **Program-18. array negative element one side**
 - **Program-19. Fibonacci Series using reursion and function**
 - **Program-20. swap the array value according to given index**
-- **Program-21. Requred Output**
+- **Program-21. Count uppercase and lowercase letters**
 - **Program-22. Remove characters at odd indices**
 - **Program-23. Find all permutations of string**
 - **Program-24. Check if given String is Pangram or not**
 - **Program-25. Check if two Strings are Anagrams of each other**
 - **Program-26. Required output-1**
 - **Program-27. Required output-2**
-- **Program-28. **
-- **Program-29. **
-- **Program-30. **
+- **Program-28. Find intersection of lists**
+- **Program-29. Split list into chunks**
+- **Program-30. Find triplet with given sum**
+- **Program-31. Check if list is palindrome**
+- **Program-32. Flatten a nested list**
+- **Program-33. Find longest increasing subsequence**
+- **Program-34. Find common prefix**
+- **Program-35. Find uncommon elements**
+- **Program-36. Find longest consecutive sequence**
+- **Program-37. Check list mutability**
+- **Program-38. **
+- **Program-39. **
+- **Program-40. **
+- **Program-41. **
+- **Program-42. **
+- **Program-43. **
+- **Program-44. **
+- **Program-45. **
+- **Program-46. **
+- **Program-47. **
+- **Program-48. **
+- **Program-49. **
+- **Program-50. **
