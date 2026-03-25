@@ -37,7 +37,7 @@
 - **Program-35. Find uncommon elements**
 - **Program-36. Find longest consecutive sequence**
 - **Program-37. Check list mutability**
-- **Program-38. **
+- **Program-38. write a function to find the first non-repeating character**
 - **Program-39. **
 - **Program-40. **
 - **Program-41. **
